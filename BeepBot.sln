@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeepBot", "BeepBot\BeepBot.csproj", "{8826EACA-0C7F-4B9A-8723-57816CD77345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeepBotUnitTest", "BeepBotUnitTest\BeepBotUnitTest.csproj", "{FC9A43FC-FD88-4560-A39C-2247089E710F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8826EACA-0C7F-4B9A-8723-57816CD77345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8826EACA-0C7F-4B9A-8723-57816CD77345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8826EACA-0C7F-4B9A-8723-57816CD77345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8826EACA-0C7F-4B9A-8723-57816CD77345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9A43FC-FD88-4560-A39C-2247089E710F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9A43FC-FD88-4560-A39C-2247089E710F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9A43FC-FD88-4560-A39C-2247089E710F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9A43FC-FD88-4560-A39C-2247089E710F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {602D3193-C68E-4C2F-BB0A-01BC94E27AE5}
+	EndGlobalSection
+EndGlobal
